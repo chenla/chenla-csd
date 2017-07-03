@@ -28,6 +28,42 @@
 * Introduction
 
 
+The video/lecture trap.
+
+Because English is a second language for most people in developing
+countries, they are under the impression that everything can be
+learned by watching videos or attending lectures.  Increasingly this
+is even how a growing number of students in developing countries who
+speak and read English as their primary language learn as well.  This
+is a very bad habit, which must be corrected in order to do any
+serious work in any field.
+
+Books, technical & scientific papers, technical standards and
+specifications should always be the primary means of learning
+anything, and then use class lectures and videos to clarify, and ask
+questions to help understand things that were not clear in the book or
+paper.  There is no substitute for reading, taking notes and mindmaps,
+working through exercises, discussing with other students, colleagues
+and teachers.
+
+This is very hard work.  Even the most brilliant scientists in the
+world, including any Noble Prize winner will tell you without
+hesitation that this will always be difficult no matter how long your
+work in your field.  Technical and scientific papers in particular are
+short, but often compress years of work by whole teams of scientists
+into a few pages of very dense text.
+
+If this is difficult for people who read English as a first language,
+and attend some of the finest schools in the world, with access to
+working scientists, teachers and research libraries, then it will be
+far more difficult for student in a developing country who speaks and
+reads english as a second language who has no direct access to any of
+these things.  
+
+This does not mean it can't be done and  this is why the Centre for
+STEM Development has been established.
+
+
 * Core Skills
 
 ** Introductory
@@ -41,6 +77,10 @@
  - Introduction to Web Stack
  - Introduction to the Scientific Method
  - Introduction to Robotics & Automation
+ - Essential Statistics
+ - Essential Mathematcs
+ - Essential Logic & Critical Thinking
+
 ** Text Editors & the Shell
 
  - Introduction to Plain Text
