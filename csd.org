@@ -24,22 +24,30 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
 * Introduction
 
 ** bootstrapping research and development
 
-** language barriers
+Perhaps the biggest challenge for a developing country is knowledge
+transfer.  It's a bit of a Catch-22 -- foreign investment that brings
+good professional jobs don't come unless there are people in that
+country who can fill those jobs.  But people won't train or study for
+those professions unless there are jobs.  So schools don't teach
+advanced topics, and students who wish to study those topics must
+study abroad.  And when they graduate, they don't return home, because
+there are no jobs for their specialty.  So unless a foriegn company
+not only invests in that country and brings with them people who can
+train people for those jobs, nothing changes.
 
 ** cultural assumptions
 
 There are many different types of cultures.  In addition to the ethnic
 cultural and language that you grew up in, there are many different
 types of sub-cultures that all of us belong to.  Sports, for example
-has a large number of different subcultures around different kinds of
-sports.  Each subculture has a core set of shared terminology,
-stories, myths, jokes, mannerisms and traditions that people in that
-subculture take for granted.  
+has a large number of different subcultures revolving around different
+kinds of sports.  Each subculture has a core set of shared
+terminology, stories, myths, jokes, mannerisms and traditions that
+people in that subculture take for granted.
 
 Science, Engineering and Technology is no different, they all have
 their own subcultures.  When reading discussion threads, exchanging
@@ -101,8 +109,9 @@ far more difficult for student in a developing country who speaks and
 reads english as a second language who has no direct access to any of
 these things.  
 
-This does not mean it can't be done and this is why the Centre for
-STEM Development has been established.
+** An alternative to waiting for investment
+
+
 
 
 * Core Skills
