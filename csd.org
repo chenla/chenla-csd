@@ -60,7 +60,7 @@ far more difficult for student in a developing country who speaks and
 reads english as a second language who has no direct access to any of
 these things.  
 
-This does not mean it can't be done and  this is why the Centre for
+This does not mean it can't be done and this is why the Centre for
 STEM Development has been established.
 
 
@@ -118,16 +118,22 @@ STEM Development has been established.
 * Career Development
 
  - How to give a lecture
+ - How to give a Talk at a Conference
+ - International Traveling Guide for STEM Professionals 
  - How to attend a Technical or Scientific Conference
  - How to Read a Scientific or Technical Paper
  - How to Read a Book
+ - How to Create A Personal Website for STEM Professionals 
  - How to Ask Questions
  - How to Blog & Leverage Social Media
  - How to Write & Submit Papers 
  - How to Search Online
  - How to Use a Physical Library
+ - How to Apply for Grants & Funding
+ - How to Establish a Lab & Research Program
 
 * Hard Sciences 
+
 
 * Life Sciences 
 
