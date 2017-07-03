@@ -27,3 +27,55 @@
 
 * Introduction
 
+
+* Core Skills
+
+** Introductory
+
+ - Big Data
+ - Machine Learning
+ - Understanding Cloud Technologies
+   - Virtual Machines
+   - Containers
+   - Databases (NoSQL & Relational)
+ - Introduction to Web Stack
+
+** Text Editors & the Shell
+
+ - iPython/Jupyter
+ - Bibliographic Management
+ - Reference Management
+ - Essential Bash Shell 
+ - LaTex and Academic/Scientific Page Layout
+
+** Reproducible Research
+
+ - Literate Programing
+ - Literate Computing
+ - Literate 
+
+** Programing Languages
+
+ - Python
+ - R
+
+
+* Career Development
+
+ - How to give a lecture
+ - How to attend a Technical or Scientific Conference
+ - How to Read a Scientific or Technical Paper
+ - How to Read a Book
+ - How to Ask Questions
+ - How to Blog & Leverage Social Media
+ - How to Write & Submit Papers 
+
+
+* Hard Sciences 
+
+* Life Sciences 
+
+* Applied Sciences
+
+* Open Source
+
