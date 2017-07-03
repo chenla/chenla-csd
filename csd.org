@@ -27,8 +27,13 @@
 
 * Introduction
 
+** bootstrapping research and development
 
-The video/lecture trap.
+** language barriers
+
+** cultural assumptions
+
+** The video/lecture trap
 
 Because English is a second language for most people in developing
 countries, they are under the impression that everything can be
