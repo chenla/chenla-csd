@@ -139,6 +139,7 @@ videos so that each topic is covered from different points of view.
  - How to Establish a Lab & Research Program
  - Mastery: The Art of Practice & Rest
  - International Traveling Guide for STEM Professionals 
+ - How to Make Screencasts & Podcasts
 
 * Hard Sciences 
 
@@ -151,9 +152,13 @@ videos so that each topic is covered from different points of view.
 
  - GPS and Mapping
  - Remote Sensors
- - Drones
+ - Drones: Remote Controlled Vehicles
  - Satellite Imaging
- - 
+ - Fabrication
+   - 3D Printing
+   - CNC cutters & routers
+ - Arduino & Raspberry Pi
+
 
 * Open Source
 
