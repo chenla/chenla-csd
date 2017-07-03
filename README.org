@@ -1,0 +1,32 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+
+* The Chenla Institute Centre for STEM Development
+
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/tldr/chenla-csd/README.org
+:Created:  2017-07-03T17:47@Prek Leap (11.642600N-104.919210W)
+:ID:       0aeb2912-c2a4-4a14-9646-1b9d01c8d898
+:VER:      552350906.610443739
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:SFV1-4548
+:Class:    deploy
+:Type:     readme
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-readme-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+
+Chenla CSD help encourage scientists, engineers, graduate students and
+faculty in developing economies to learn scientific and scholarly
+methodologies, standards, best practices, tools, workflows for
+conducting research and participatig in global scientific, scholarly,
+and open source development communities.
