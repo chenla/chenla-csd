@@ -33,32 +33,47 @@
 ** Introductory
 
  - Big Data
- - Machine Learning
+ - Machine Learning (Artificial Intelligence)
  - Understanding Cloud Technologies
    - Virtual Machines
    - Containers
    - Databases (NoSQL & Relational)
  - Introduction to Web Stack
-
+ - Introduction to the Scientific Method
+ - Introduction to Robotics & Automation
 ** Text Editors & the Shell
 
- - iPython/Jupyter
+ - Introduction to Plain Text
+ - Emacs & Vim
+ - iPython/Jupyter/Org Babel
  - Bibliographic Management
  - Reference Management
  - Essential Bash Shell 
  - LaTex and Academic/Scientific Page Layout
 
+ - Graphics
+   - bitmaps
+   - vectors
+   - graph generation software
+ - Version Control
+
 ** Reproducible Research
 
  - Literate Programing
  - Literate Computing
- - Literate 
+ - Literate Devops
 
 ** Programing Languages
 
+ - Introduction to Programing
  - Python
  - R
 
+** Spoken & Written Language
+
+  - Technical English
+  - Technical French | German | Spanish | Japanese | Korean |
+    Japanese | Chinese
 
 * Career Development
 
@@ -69,13 +84,20 @@
  - How to Ask Questions
  - How to Blog & Leverage Social Media
  - How to Write & Submit Papers 
-
+ - How to Search Online
+ - How to Use a Physical Library
 
 * Hard Sciences 
 
 * Life Sciences 
 
+ - Introduction to CRISPR
+
 * Applied Sciences
+
+ - GPS and Mapping
+ - Remote Sensors & Drones
+ - Satellite Imaging
 
 * Open Source
 
