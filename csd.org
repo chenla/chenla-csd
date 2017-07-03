@@ -74,12 +74,13 @@ STEM Development has been established.
    - Virtual Machines
    - Containers
    - Databases (NoSQL & Relational)
- - Introduction to Web Stack
+ - Introduction to the Web Stack
  - Introduction to the Scientific Method
  - Introduction to Robotics & Automation
  - Essential Statistics
  - Essential Mathematcs
  - Essential Logic & Critical Thinking
+ - Essential Security
 
 ** Text Editors & the Shell
 
@@ -111,9 +112,9 @@ STEM Development has been established.
 
 ** Spoken & Written Language
 
-  - Technical English
-  - Technical French | German | Spanish | Japanese | Korean |
-    Japanese | Chinese
+ - Technical English
+ - Technical French | German | Spanish | Japanese | Korean |
+   Japanese | Chinese
 
 * Career Development
 
@@ -128,6 +129,8 @@ videos so that each topic is covered from different points of view.
  - How to Read a Book
  - How to Give a Lecture
  - How to Give a Talk at a Conference
+ - How to Be on a Conference Panel
+ - How to Give an Interview
  - How to Attend a Technical or Scientific Conference
  - How to Create A Personal Website for STEM Professionals 
  - How to Ask Questions
@@ -140,9 +143,6 @@ videos so that each topic is covered from different points of view.
  - Mastery: The Art of Practice & Rest
  - International Traveling Guide for STEM Professionals 
  - How to Make Screencasts & Podcasts
-
-* Hard Sciences 
-
 
 * Life Sciences 
 
@@ -159,6 +159,4 @@ videos so that each topic is covered from different points of view.
    - CNC cutters & routers
  - Arduino & Raspberry Pi
 
-
-* Open Source
 
