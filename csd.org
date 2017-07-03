@@ -89,19 +89,19 @@ STEM Development has been established.
  - Bibliographic Management
  - Reference Management
  - Essential Bash Shell 
- - LaTex and Academic/Scientific Page Layout
-
- - Graphics
+ - LaTex and Academic/Scientific Typesetting
+ - Version Control
+ - Essential Graphics
    - bitmaps
    - vectors
-   - graph generation software
- - Version Control
+   - diagram & graph generation software
 
 ** Reproducible Research
 
  - Literate Programing
  - Literate Computing
  - Literate Devops
+ - Open Data
 
 ** Programing Languages
 
@@ -117,20 +117,28 @@ STEM Development has been established.
 
 * Career Development
 
- - How to give a lecture
- - How to give a Talk at a Conference
- - International Traveling Guide for STEM Professionals 
- - How to attend a Technical or Scientific Conference
+The idea here is not to have only one, paper or lecture that covers
+each of these topics.  We will invite STEM professionals who are
+respected in their fields to contribute their own essays and lecture
+videos so that each topic is covered from different points of view.
+
+ - You and Your Research (Career Planning)
+ - How to Learn a New Subject
  - How to Read a Scientific or Technical Paper
  - How to Read a Book
+ - How to Give a Lecture
+ - How to Give a Talk at a Conference
+ - How to Attend a Technical or Scientific Conference
  - How to Create A Personal Website for STEM Professionals 
  - How to Ask Questions
  - How to Blog & Leverage Social Media
- - How to Write & Submit Papers 
+ - How to Write & Submit Papers and the Peer Review Process
  - How to Search Online
  - How to Use a Physical Library
  - How to Apply for Grants & Funding
  - How to Establish a Lab & Research Program
+ - Mastery: The Art of Practice & Rest
+ - International Traveling Guide for STEM Professionals 
 
 * Hard Sciences 
 
@@ -142,8 +150,10 @@ STEM Development has been established.
 * Applied Sciences
 
  - GPS and Mapping
- - Remote Sensors & Drones
+ - Remote Sensors
+ - Drones
  - Satellite Imaging
+ - 
 
 * Open Source
 
