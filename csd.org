@@ -28,10 +28,14 @@
 
 ** the third stage of globalization
 
+  |       | Structure     | Toffler     | Baldwin  |
+  |-------+---------------+-------------+----------|
+  | ?     | centralized   | physical    | goods    |
+  | 1990  | decentralized | symbolic    | know-how |
+  | 2020? | distributed   | information | people   |
+  
 
-  - first stage  -- centralized
-  - second stage -- decentralized
-  - third stage  -- distributed 
+   
 
 ---
 
@@ -50,7 +54,7 @@ expensive to move goods, information and people.
 The invention of steam engines transformed the planet,
 making it cheap to move good globally using steam powered
 ships and inland via steam locomotives.  This made moving
-good cheap, but moving information and people was
+goods cheap, but moving information and people was
 expensive.  A handful of countries, in the North, which are
 still known as the G7 were the biggest winners and the older
 centers of civlization including the middle east and China,
