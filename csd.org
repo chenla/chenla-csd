@@ -28,7 +28,13 @@
 
 ** the third stage of globalization
 
-flat vs spikey -- 
+
+  - first stage  -- centralized
+  - second stage -- decentralized
+  - third stage  -- distributed 
+
+---
+
 
 before the agricultural revolution, people were global,
 moving from place to place following the food, where it grew
