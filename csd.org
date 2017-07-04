@@ -185,10 +185,10 @@ So what will happen after 2020?
     producing very large volumes all-of-the-time.  Until
     now, large factories were only competitive if there was
     enough busy to keep them in operation.  Even brief
-    downtime could shutter a factories in a matter of days
-    or even hours.  A mesh fabric of smaller production
-    means that production is more responsive to demands, and
-    not require large inventories of identical goods.  If
+    downtime could shutter factories in a matter of days or
+    even hours.  A mesh fabric of smaller production means
+    that production is more responsive to demands, and not
+    require large inventories of identical goods.  If
     downtime was actually built into the design of such
     enterprises, it would make seasonal production, or rush
     orders not only possible, but downtime to be an
@@ -202,7 +202,12 @@ So what will happen after 2020?
     such local enterprises to sustain all of the support
     services that the village would require to prosper.
 
-
+  - It's not clear what impact this will have on the trend
+    towards ubanization, but it could well be the end of the
+    suburbs which are largely populated by middleclass
+    professionals who work for companies that act as
+    middlemen or more specifically, perform jobs that will
+    be automated.
 
 
 ** bootstrapping research and development
