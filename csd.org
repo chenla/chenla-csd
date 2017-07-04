@@ -247,12 +247,36 @@ So what will happen after 2020?
     have to undergo fundamental changes in order to survive.
 
   - Finally, we have not brought up the issue of
-    intellectual property and it's role in any of the stages
+    intellectual property and its role in any of the stages
     of globalization.  IP is either used as organizational
     knowledge which is kept within the organization, that
     gives the organization competitive advantage.  Or,
-    through rent-seeking for packaged information in the
-    form of code, text, images, video and audio.  The 
+    through rent-seeking for packaged and published
+    information in the form of code, text, images, video and
+    audio.  Organizational knowledge is here to stay --
+    rent-seeking of published information has an uncertain
+    future and largely will make no sense in the emerging
+    new economy.
+
+    It should also be pointed out that organizational
+    knowledge in terms of manufacturing processes and
+    designs will be needed by all of these potental small
+    establishments to set up shop.  It could be that the
+    large companies today that survive into the next stage
+    will provide such knowledge as a service which acts as
+    infrastructure.  The big companies will be able to
+    compete with each other on the basis of how fast they
+    can innovate and make small enterprises successful.
+
+    The other possibility, is that a lot of this
+    organizational knowledge will have to be reinvented by
+    small enterprises during the early stages of the
+    revolution.  This lends itself naturally to many small
+    organizations contributing to open source development of
+    this knowledge which is maintained as part of the
+    commons.  In practice it won't be one or the other, but
+    a combination of all of these things as well as a lot of
+    things that we can not anticipate yet.
 
 
 
