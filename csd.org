@@ -26,6 +26,15 @@
 
 * Introduction
 
+
+flat vs spikey -- 
+
+
+
+
+
+
+
 ** bootstrapping research and development
 
 Perhaps the biggest challenge for a developing country is knowledge
@@ -111,22 +120,32 @@ these things.
 
 ** An alternative: build it and they will come
 
-We must find ways of lowering the entry barrier so that people can
-learn the skills that can attract investment an bringing good
-professional jobs to developing countries.
+We must find ways of lowering the entry barrier so that
+people can learn the skills that can attract investment an
+bringing good professional jobs to developing countries.
 
-If all you are training people to do is low level programing for web
-and mobile app development, then the only work you'll attract is low
-paying semi-skilled outsourcing work from foreign companies.
+If all you are training people to do is low level programing
+for web and mobile app development, then the only work
+you'll attract is low paying semi-skilled outsourcing work
+from foreign companies.
 
 Companies need to learn to develop their staff and look for
-opportunities to attract more lucritive contracts.  Colleges and
-Universities need to develop their own faculty to encourage them to
-stay up to date in their fields, as well as do their own research and
-development.  So when the opportunity arises, schools can begin
-offering courses and degrees in advanced subjects.
+opportunities to attract more lucritive contracts.  
 
-In otherwords, chance favours the prepared mind.  By building 
+Colleges and Universities need to develop their own faculty
+to encourage them to stay up to date in their fields, as
+well as do their own research and development.  So when the
+opportunity arises, schools can begin offering courses and
+degrees in advanced subjects.
+
+NGOs need to encourage this process, and work with schools
+to train people who can take over from foreigners brought in
+to establish projects.  This is good for the country and
+good for the NGOs.
+
+In otherwords, chance favours the prepared mind.
+
+** Skills are needed 
 
 
 * Core Skills
