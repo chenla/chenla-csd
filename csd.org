@@ -170,7 +170,12 @@ So what will happen after 2020?
     downtime could shutter a factories in a matter of days
     or even hours.  A mesh fabric of smaller production
     means that production is more responsive to demands, and
-    not require large inventories of identical goods.
+    not require large inventories of identical goods.  If
+    downtime was actually built into the design of such
+    enterprises, it would make seasonal production, or rush
+    orders not only possible, but downtime to be an
+    opportunity to do other things, including education,
+    family and recreational pursuits.
 
   - Small production means that each producer has a handful
     of very good jobs that will be able to support a group
