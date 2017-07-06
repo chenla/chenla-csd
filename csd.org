@@ -49,8 +49,7 @@ takes time to absorb and assimilate change and everything is
 changing so fast that none of us are given the time to do
 that.
 
-
-** the third stage of globalization
+* Globalization
 
   |       | Structure     | Toffler     | Baldwin  |
   |-------+---------------+-------------+----------|
@@ -195,7 +194,7 @@ This all is still little more than a hunch -- need to fill
 in a lot of blanks to see if this is a real possibility or
 not.
 
-* So what will happen after 2020?
+** So what will happen after 2020?
 
 I7 countries will see massive job losses as cheap labor is
 replaced by nearly fully automated factories.  Recently a
@@ -336,7 +335,8 @@ as well as a lot of things that we can not anticipate yet.
 
 
 
-** bootstrapping research and development
+
+* bootstrapping research and development
 
 Perhaps the biggest challenge for a developing country is
 knowledge transfer.  It's a bit of a Catch-22 -- foreign
