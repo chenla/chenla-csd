@@ -26,6 +26,30 @@
 
 * Introduction
 
+We need iterative institutions -- my struggle has been that
+I haven't known what to tell people, because everything I
+know is in the process of becoming something else.  We
+aren't built to deal with that.  We want institutions to
+provide certainty and stability.  But I can't offer that --
+all I can offer is a work-in-progress that is constantly
+evolving.  So if I write something and tell the world, hey
+this is how it is or how it is going to be, and then a month
+later say -- well, the model is looking very different now,
+so, don't so much scrap what I said before, so much as look
+at it from a different perspective that scraps many aspects
+of what I said before but results in a better model.  That
+leaves a bad feeling in people's gut.  Most people will feel
+pissed off because they just started feeling comfortable
+with the latest iteration and bam, the rug is pulled out
+from underneath and they have to start over again.  Now
+repeat this process over and over and you will never be able
+to build any kind of broad support for what you are doing.
+The frustration is understandable, it's exhausting.  It
+takes time to absorb and assimilate change and everything is
+changing so fast that none of us are given the time to do
+that.
+
+
 ** the third stage of globalization
 
   |       | Structure     | Toffler     | Baldwin  |
@@ -35,7 +59,8 @@
   | 2020? | distributed   | information | people   |
   
 
-   
+
+
 
 ---
 
