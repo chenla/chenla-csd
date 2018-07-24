@@ -25,8 +25,15 @@
 
 
 
-Chenla CSD help encourage scientists, engineers, graduate students and
-faculty in developing economies to learn scientific and scholarly
-methodologies, standards, best practices, tools, workflows for
-conducting research and participatig in global scientific, scholarly,
-and open source development communities.
+Chenla CSD help encourage scientists, engineers, graduate
+students and faculty in developing economies to learn
+scientific and scholarly methodologies, standards, best
+practices, tools, workflows for conducting research and
+participatig in global scientific, scholarly, and open
+source development communities.
+
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/ ]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/ ]]
